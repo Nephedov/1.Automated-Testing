@@ -44,7 +44,7 @@ public class CashbackHackServiceTest {
     public void amount1000Test() {
         var value = new CashbackHackService();
 
-        assertThrows(AssertionError.class, () -> assertEquals(value.remain(1000), 0));
+        assertEquals(value.remain(1000), 0);
 
     }
 
