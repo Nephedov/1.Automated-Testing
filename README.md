@@ -15,14 +15,15 @@
 
 <a href="https://github.com/Nephedov/1.Automated-Testing/tree/junit4?tab=readme-ov-file">Ветка</a> репозитория с проектом.
 ## Что было сделано
+### Задание 1
 * Создан Gradle проект c настроенным <a href="https://github.com/Nephedov/1.Automated-Testing/blob/0ac31373fa98ec288dfce3574b5144cea748144f/.github/workflows/grandle.yml">grandle.yml</a> для Github Ci.
-  ### Задание 1
+  #### Часть 1
   * Создана ветка <a href="https://github.com/Nephedov/1.Automated-Testing/tree/testng?tab=readme-ov-file">testng</a> в которой:
     * Добавлена зависимость для testng в <a href="https://github.com/Nephedov/1.Automated-Testing/blob/8203d3fd5eda4732f418676c4a285b33a0c841b1/build.gradle">build.gradle</a>.
     * Реализованы автотесты на метод класса CashbackHackService.java -
       <a href="https://github.com/Nephedov/1.Automated-Testing/blob/8203d3fd5eda4732f418676c4a285b33a0c841b1/src/test/java/ru/netology/CashbackHackServiceTest.java">CashbackHackServiceTest.java</a>.
     * Заведен <a href="https://github.com/Nephedov/1.Automated-Testing/issues/4#issue-1464901491">баг-репорт</a> в issue.
-  ### Задание 2
+  #### Часть 2
   * Создана ветка <a href="https://github.com/Nephedov/1.Automated-Testing/tree/junit4?tab=readme-ov-file">junit4</a> в которой:
     * Добавлена зависимость для junit4 в <a href="https://github.com/Nephedov/1.Automated-Testing/blob/7b66a1501680335fb81357d82ca1fe604d2204b3/build.gradle">build.gradle</a>.
     * Реализованы автотесты на метод класса CashbackHackService.java -
