@@ -30,6 +30,10 @@
       <a href="https://github.com/Nephedov/1.Automated-Testing/blob/junit4/src/main/java/ru/netology/service/CashbackHackService.java">CashbackHackService.java</a>.
     * Заведен <a href="https://github.com/Nephedov/1.Automated-Testing/issues/5">баг-репорт</a> в issue.
 
+---
+---
+
+
 ## Описание Задания №1: CashBackHacker
 
 ### Введение
